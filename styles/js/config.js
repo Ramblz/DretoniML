@@ -15,9 +15,9 @@ let charadex = {};
 /* Any preview links will still show Charadex's information
 /* ==================================================================== */
 charadex.site = {
-  title: "Charadex",
-  url: "https://charadex-team.github.io/charadex-v1.0/",
-  description: `A tool for organizing small ARPGs and species.`
+  title: "Dretoni Dreamscape",
+  url: "https://ramblz.github.io/DretoniML/",
+  description: `A masterlist for the Dretoni Dreamscape`
 }
 
 /* ==================================================================== */
@@ -26,7 +26,7 @@ charadex.site = {
 /* ==================================================================== */
 charadex.sheet = {
 
-  id: "1GwgfLizD3HQCieGia6di-TfU4E3EipT9Jb0BDZQwNak",
+  id: "1vJjGq950UtBN0y8elaplQdXsOLzllpq0dD-nbBhZtsQ",
 
   pages: {
     masterlist:    "masterlist",
