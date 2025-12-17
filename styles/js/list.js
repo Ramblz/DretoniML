@@ -348,7 +348,7 @@ charadex.listFeatures.prevNextLink = function (pageUrl, galleryArray, profileArr
   // Will help us create links
   const updateLink = (selector, profile) => {
     const element = $(selector);
-    if (profile) {
+    if (profile) { 
       element.attr('href', charadex.url.addUrlParameters(pageUrl, { profile: profile.profileid }));
       element.find('span').text(profile.profileid);
       element.show();
