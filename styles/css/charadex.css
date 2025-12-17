@@ -16,13 +16,13 @@ body {
   /* Primary Color
   ================================================================ */
   --cd-primary-color: #eeb842;
-  --cd-primary-text-color: #fff;
+  --cd-primary-text-color: #ffffff;
 
   /* ============================================================= */
   /* Secondary Color
   ================================================================ */
-  --cd-secondary-color: #505050;
-  --cd-secondary-text-color: #fff;
+  --cd-secondary-color: #3f3a35;
+  --cd-secondary-text-color: #ffffff;
 
   /* ============================================================= */
   /* Backgrounds
@@ -37,8 +37,8 @@ body {
   /* ============================================================= */
   /* Text
   ================================================================ */
-  --cd-body-text-color: #05060a;
-  --cd-faded-text-color: #c9c6be;
+  --cd-body-text-color: #24252b;
+  --cd-faded-text-color: #d6d2d2;
 
   /* ============================================================= */
   /* Borders
@@ -741,7 +741,7 @@ p:last-child {
   .cd-hero-title {
     letter-spacing: 2px;
     font-size: 5rem;
-  } 
+  }
 }
 
 
@@ -752,7 +752,7 @@ p:last-child {
 .badge-common {
   background-color: var(--cd-rarity-common-bg);
   color: var(--cd-rarity-common-txt);
-}
+} 
 
 .badge-uncommon {
   background-color: var(--cd-rarity-uncommon-bg);
@@ -772,5 +772,5 @@ p:last-child {
 .badge-epic,
 .badge-mythic {
   background-color: var(--cd-rarity-epic-bg);
-  color: var(--cd-rarity-legendary-txt);
+  color: var(--cd-rarity-epic-txt);
 }
