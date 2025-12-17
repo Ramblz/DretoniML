@@ -21,7 +21,7 @@ body {
   /* ============================================================= */
   /* Secondary Color
   ================================================================ */
-  --cd-secondary-color: #4e4e4e;
+  --cd-secondary-color: #505050;
   --cd-secondary-text-color: #fff;
 
   /* ============================================================= */
@@ -37,8 +37,8 @@ body {
   /* ============================================================= */
   /* Text
   ================================================================ */
-  --cd-body-text-color: #111111;
-  --cd-faded-text-color: #757474;
+  --cd-body-text-color: #3464e9;
+  --cd-faded-text-color: #c9c6be;
 
   /* ============================================================= */
   /* Borders
@@ -125,7 +125,7 @@ body {
   /* Link
   ================================================================ */
 
-  --cd-link-text-color: #4c8ebd;
+  --cd-link-text-color: #175bdb;
   --cd-link-text-color-hover: var(--cd-secondary-color);
 
 
@@ -740,7 +740,7 @@ p:last-child {
 @media (min-width: 768px) {
   .cd-hero-title {
     letter-spacing: 2px;
-    font-size: 5rem;
+    font-size: 5rem; 
   }
 }
 
