@@ -201,7 +201,7 @@ charadex.initialize.groupGallery = async function (config, dataArray, groupBy, c
     for (let group in groupArray) {
 
       //Create the list selector
-      let groupListSelector = charadex.tools.scrub(group);
+      let groupListSelector = charadex.tools.scrub(group); 
       
       // Create the DOM elements
       let groupElement = $(`#${selector}-group-list`).clone();
