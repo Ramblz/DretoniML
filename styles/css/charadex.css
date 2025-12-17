@@ -37,7 +37,7 @@ body {
   /* ============================================================= */
   /* Text
   ================================================================ */
-  --cd-body-text-color: #3464e9;
+  --cd-body-text-color: #05060a;
   --cd-faded-text-color: #c9c6be;
 
   /* ============================================================= */
@@ -740,8 +740,8 @@ p:last-child {
 @media (min-width: 768px) {
   .cd-hero-title {
     letter-spacing: 2px;
-    font-size: 5rem; 
-  }
+    font-size: 5rem;
+  } 
 }
 
 
