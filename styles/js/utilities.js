@@ -370,7 +370,7 @@ charadex.importSheet = async (sheetPage, sheetId = charadex.sheet.id) => {
   const col = [];
   if (sliceJSON.table.cols[0].label) {
     for (let headers of sliceJSON.table.cols) {
-      if (headers.label) col.push(headers.label.toLowerCase().replace(/\s/g, ""));
+      if (headers.label) col.push(headers.label.toLowerCase().replace(/\s/g, "")); 
     };
   }
 
