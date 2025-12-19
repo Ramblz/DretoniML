@@ -15,13 +15,13 @@ body {
   /* ============================================================= */
   /* Primary Color
   ================================================================ */
-  --cd-primary-color: #eeb842;
+  --cd-primary-color: #ecbd20;
   --cd-primary-text-color: #ffffff;
 
   /* ============================================================= */
   /* Secondary Color
   ================================================================ */
-  --cd-secondary-color: #3f3a35;
+  --cd-secondary-color: #1d1e50;
   --cd-secondary-text-color: #ffffff;
 
   /* ============================================================= */
@@ -37,7 +37,7 @@ body {
   /* ============================================================= */
   /* Text
   ================================================================ */
-  --cd-body-text-color: #24252b;
+  --cd-body-text-color: #17181d;
   --cd-faded-text-color: #d6d2d2;
 
   /* ============================================================= */
@@ -125,7 +125,7 @@ body {
   /* Link
   ================================================================ */
 
-  --cd-link-text-color: #175bdb;
+  --cd-link-text-color: #118adb;
   --cd-link-text-color-hover: var(--cd-secondary-color);
 
 
@@ -752,7 +752,7 @@ p:last-child {
 .badge-common {
   background-color: var(--cd-rarity-common-bg);
   color: var(--cd-rarity-common-txt);
-} 
+}
 
 .badge-uncommon {
   background-color: var(--cd-rarity-uncommon-bg);
