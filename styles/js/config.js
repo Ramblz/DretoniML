@@ -44,7 +44,7 @@ charadex.sheet = {
 
     designTypes: ['All', 'Official Design', 'Guest Design', 'MYO Slot', 'MYO Design'],
     statuses: ['All', 'Resell/Trade/Gift', 'Voided', 'Acc Bound', 'Trade or Gift'],
-    rarity: ['All', 'Common', 'Uncommon', 'Rare', 'Legendary', 'Epic'],
+    rarity: ['All', 'Common', 'Uncommon', 'Rare', 'Legendary', 'Mod', 'Epic'],
     species: ['All', 'Dog', 'Cat', 'Bunny'],
     itemTypes: ['All', 'Currency', 'MYO Slot', 'Design', 'Misc'],
     traitTypes: ['All', 'Head', 'Body', 'Tail', 'Handsies', 'Misc']
