@@ -772,6 +772,11 @@ p:last-child {
   color: var(--cd-rarity-legendary-txt);
 }
 
+.badge-mod {
+  background-color: var(--cd-rarity-mod-bg);
+  color: var(--cd-rarity-mod-txt);
+}
+
 .badge-epic,
 .badge-mythic {
   background-color: var(--cd-rarity-epic-bg);
