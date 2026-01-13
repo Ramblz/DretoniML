@@ -42,8 +42,8 @@ charadex.sheet = {
 
   options: {
 
-    designTypes: ['All', 'Official Design', 'Guest Design', 'MYO Slot', 'MYO Design'],
-    statuses: ['All', 'Resell/Trade/Gift', 'Voided', 'Acc Bound', 'Trade or Gift'],
+    designTypes: ['All', 'Official Design', 'Guest Design', 'NPC', 'MYO Design'],
+    statuses: ['All', 'Resell/Trade/Gift', 'Voided', 'Acc Bound', 'Adopt', 'Personal', 'Trade or Gift'],
     rarity: ['All', 'Common', 'Uncommon', 'Rare', 'Legendary', 'Mod', 'Epic'],
     species: ['All', 'Dog', 'Cat', 'Bunny'],
     itemTypes: ['All', 'Currency', 'MYO Slot', 'Design', 'Misc'],
