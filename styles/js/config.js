@@ -322,7 +322,7 @@ charadex.page.masterlist = {
   pagination: {
     toggle: true,
     bottomToggle: true,
-    amount: 12,
+    amount: 16,
   },
 
   filters: {
